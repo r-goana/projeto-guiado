@@ -1,0 +1,78 @@
+
+.body {
+    font-size: 100%;
+    background: linear-gradient(FFFFFF);
+  }
+
+.conteudo-topo {
+    padding: 20px;
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.logo {
+    width: 300px;
+    background-color: #000000;
+    margin:auto;
+    display: block;
+    width:40%;
+}
+
+.top-div {
+    background-color: #000000;
+    margin-top: 0px;
+}
+
+.conteudo-subtitulo {
+  color: #000000;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+}
+
+.conteudo-subtitulo2 {
+    padding: 20px;
+    text-align: left;
+    background-color: hsl(286, 100%, 35%);
+    color: #ffffff;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.perfil-div {
+    margin-right: 20px;
+    display: block;
+    padding-left: 10%
+}
+
+.perfil-div2 {
+    display:block;
+    margin-left: 20px;
+    padding-left: 50%;
+    font-size: 25px;
+
+}
+
+.descricao {
+    margin-right: 20px;
+    display: block;
+    padding-left: 30% 
+}
+
+.footer {
+    font-family: 'Josefin Sans', sans-serif;
+  background-color:#E0C9C9;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: left;
+}
+
+.links {
+    text-align: center;
+}
+
+.acesse {
+    font-family: "Sofia", sans-serif;
+    font-size:30px;
+    padding-left:80px;
+}
